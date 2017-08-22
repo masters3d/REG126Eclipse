@@ -4,6 +4,7 @@
 
 /**
  * @author cheyo
+ * @author pacman-bot 
  *
  */
 public final class MyClass {
@@ -14,7 +15,7 @@ public final class MyClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("Hello World");
-		System.out.print("Added another line");
+		System.out.print("Pacman-Bot was here.");
 
 	}
 
